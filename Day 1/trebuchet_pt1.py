@@ -1,4 +1,4 @@
-data = open(r'testdatapt1.txt', 'r')
+data = open(r'data.txt', 'r')
 
 sum = 0
 for line in data.readlines():
